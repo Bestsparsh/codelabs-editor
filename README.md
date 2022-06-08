@@ -19,9 +19,13 @@
 
 **Server:** Node, MongoDB, Socket.io
 
-* Real Time usage of the project : 
-
-* Video Demo
+## Screenshots
+![](https://github.com/kartik0406/codelabs/blob/main/Screenshots/1.png)
+![](https://github.com/kartik0406/codelabs/blob/main/Screenshots/2.png)
+![](https://github.com/kartik0406/codelabs/blob/main/Screenshots/3.png)
+![](https://github.com/kartik0406/codelabs/blob/main/Screenshots/4.png)
+![](https://github.com/kartik0406/codelabs/blob/main/Screenshots/5.png)
+![](https://github.com/kartik0406/codelabs/blob/main/Screenshots/6.png)
 
 ## Installation Guide: 
 - Step 1:  Fork the repository
