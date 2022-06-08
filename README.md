@@ -29,13 +29,13 @@
 - Step 2: Clone the project
 
     ```bash
-  git clone https://github.com/yasharthratan/CODELABS.git
+  git clone https://github.com/kartik0406/codelabs.git
     ```
 
 - Step 3: Go to the project directory
 
     ```bash
-  cd CODELABS_V1
+  cd Codelabs
     ```
 
 - Step 4: Install dependencies
